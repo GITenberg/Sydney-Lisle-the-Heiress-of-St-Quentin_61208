@@ -1,5 +1,5 @@
 _repo: Sydney-Lisle-the-Heiress-of-St-Quentin_61208
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Paget, Walter
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '9756'
     url: http://www.gutenberg.org/2009/agents/9756
     wikipedia: https://en.wikipedia.org/wiki/Walter_Paget_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 61208-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Dorothea
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '48934'
     url: http://www.gutenberg.org/2009/agents/48934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61208#Sydney-Lisle-the-Heiress-of-St-Quentin
 gutenberg_issued: '2020-01-20'
 gutenberg_type: Text
 identifiers:
