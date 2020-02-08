@@ -1,0 +1,40 @@
+_repo: Sydney-Lisle-the-Heiress-of-St-Quentin_61208
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Paget, Walter
+    aliases:
+    - Paget, W. (Walter)
+    - Paget, Wal. (Walter)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '9756'
+    url: http://www.gutenberg.org/2009/agents/9756
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Paget_(illustrator)
+creator:
+  author:
+    agent_name: Moore, Dorothea
+    alias: Moore, Dorothea Mary
+    birthdate: 1880
+    deathdate: 1933
+    gutenberg_agent_id: '48934'
+    url: http://www.gutenberg.org/2009/agents/48934
+description: ''
+gutenberg_issued: '2020-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adopted children -- Juvenile fiction'
+- !lcsh 'England -- Social life and customs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Young women -- Juvenile fiction'
+- GITenberg
+title: Sydney Lisle, the Heiress of St. Quentin
+url: http://www.gutenberg.org/ebooks/61208
